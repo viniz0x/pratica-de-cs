@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\bootcamp_XpInc\\Introducao_aoAmbienteNETeProjetosColaborativos\\pratica_de_cs\\intro_cs\\intro_cs.csproj": {}
+    "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\intro_cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\bootcamp_XpInc\\Introducao_aoAmbienteNETeProjetosColaborativos\\pratica_de_cs\\intro_cs\\intro_cs.csproj": {
+    "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\intro_cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\bootcamp_XpInc\\Introducao_aoAmbienteNETeProjetosColaborativos\\pratica_de_cs\\intro_cs\\intro_cs.csproj",
+        "projectUniqueName": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\intro_cs.csproj",
         "projectName": "intro_cs",
-        "projectPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\bootcamp_XpInc\\Introducao_aoAmbienteNETeProjetosColaborativos\\pratica_de_cs\\intro_cs\\intro_cs.csproj",
+        "projectPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\intro_cs.csproj",
         "packagesPath": "C:\\Users\\luap3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\bootcamp_XpInc\\Introducao_aoAmbienteNETeProjetosColaborativos\\pratica_de_cs\\intro_cs\\obj\\",
+        "outputPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luap3\\AppData\\Roaming\\NuGet\\NuGet.Config"
