@@ -1,8 +1,10 @@
-﻿using System.Data.Common;
-using intro_cs.Models;
+﻿using intro_cs.Models;
+string b = "4";
+int c = int.Parse(b);
+Console.WriteLine(c);
 
-DateTime DataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(DataAtual.ToString("dd/MM/yyyy HH:mm"));
+// DateTime DataAtual = DateTime.Now.AddDays(5);
+// Console.WriteLine(DataAtual.ToString("dd/MM/yyyy HH:mm"));
 
 
 // string Apresentacao = "Olá, seja bem vindo";
