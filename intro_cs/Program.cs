@@ -1,7 +1,15 @@
 ﻿using intro_cs.Models;
-string b = "4";
-int c = int.Parse(b);
-Console.WriteLine(c);
+
+
+int Inteiro = 10;
+string a = Inteiro.ToString();
+Console.WriteLine(a);
+
+
+// string b = "4";
+// int c = int.Parse(b);
+// Console.WriteLine(c);
+
 
 // DateTime DataAtual = DateTime.Now.AddDays(5);
 // Console.WriteLine(DataAtual.ToString("dd/MM/yyyy HH:mm"));
