@@ -6,7 +6,28 @@ using intro_cs.Models;
 
 
 
-//
+// Calculadora calc = new Calculadora();
+
+// calc.Somar(10, 2);
+// calc.Subtrair(10, 2);
+// calc.Multiplicar(10, 2);
+// calc.Dividir(10, 2);
+// calc.Pontencia(10, 2);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+// calc.RaizQuadrada(9);
+
+//// Calculando incremento e decremento
+// int numero = 10;
+// Console.WriteLine(numero);
+// Console.WriteLine($"Incrementando o {numero}");
+// numero++;
+// Console.WriteLine(numero);
+// Console.WriteLine($"Decrementando o {numero}");
+// numero--;
+// Console.WriteLine(numero);
+
 
 
 
