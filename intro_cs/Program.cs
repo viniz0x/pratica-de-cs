@@ -5,6 +5,97 @@ using intro_cs.Models;
 
 
 
+string opcao;
+bool exibirMenu = true;
+
+while (exibirMenu) {
+    Console.Clear();
+    Console.WriteLine("Digite a sua opeção: ");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    // Captura a tecla pressionada diretamente, sem ser necessário apertar o Entar #ByChatGPT
+    ConsoleKeyInfo tecla = Console.ReadKey(intercept: true);
+    opcao = tecla.KeyChar.ToString();
+
+    switch (opcao) {
+        case "1":
+            Console.WriteLine("\n[Cadastro de cliente]");
+            break;
+
+        case "2":
+            Console.WriteLine("\n[Busca de cliente]");
+            break;
+
+        case "3":
+            Console.WriteLine("\n[Apagar cliente]");
+            break;
+
+        case "4":
+            Console.WriteLine("\n[Encerrar]");
+            exibirMenu = false;
+            break;
+
+        default:
+            Console.WriteLine("\n[Opção inválida]");
+            break;
+
+    }
+
+        if (opcao != "4") {
+            Console.WriteLine("Pressione qualquer tecla para continuar...");
+            Console.ReadKey(); //#ByChatGPT
+    }
+}
+
+Console.WriteLine("O programa se encerrou");
+
+
+
+
+
+// int soma = 0, numero = 0;
+
+// do {
+//     Console.WriteLine("Digite um número (0 para)");
+//     numero = Convert.ToInt32(Console.ReadLine());
+
+//     soma += numero;
+// } while (numero != 0);
+
+// Console.WriteLine($"A soma total dos números é igual á {soma}");
+
+
+
+// int numero = 5;
+// int contador = 1;
+
+// while (contador <= 10) {
+
+
+//     Console.WriteLine($"{contador}° Execução: {numero} x {contador} = {numero * contador}");
+//     contador++;
+
+//     if (contador == 6) {
+//         break;
+//     }
+// }
+
+
+
+
+
+// int numero = 5;
+
+// for (int contador = 0; contador <= 10; contador++) {
+//     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+// }
+
+
+
+
 
 // Calculadora calc = new Calculadora();
 
