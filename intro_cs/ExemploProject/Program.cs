@@ -6,6 +6,71 @@ using intro_cs.Models;
 
 
 
+List<string> listaString = new List<string>();
+
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("RJ");
+
+Console.WriteLine($"Itens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Add("SC");
+
+Console.WriteLine($"\nItens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Remove("MG");
+
+Console.WriteLine($"\nItens na minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+
+
+// foreach (string str in listaString) {
+//     Console.WriteLine(str);
+// } //Perconrendo com foreach simples
+
+// //OR
+
+// for(int contador = 0; contador < listaString.Count; contador++) {
+//     Console.WriteLine($"Posição N° {contador} - {listaString[contador]}");
+// } //Percorendo com for simples
+
+
+
+
+
+
+
+
+
+// int[] arrayInteiros = new int[3];
+// arrayInteiros[0] = 72;
+// arrayInteiros[1] = 64;
+// arrayInteiros[2] = 50;
+
+
+// int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+
+// // Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2); //A ação correta dessa fução não é aumentar o valor do array, e sim criar uma nova array com o dobro de tamanho e copiar os valores do anterior.
+
+
+// Console.WriteLine("\nPercorrendo o Array com o FOR");
+// for (int contador = 0; contador < arrayInteiros.Length; contador++) {
+//     Console.WriteLine($"Possição N° {contador} - {arrayInteiros[contador]}");
+// }
+
+// Console.WriteLine("\nPercorrendo o Array com o FOREACH");
+// int contadorForeach = 0;
+// foreach (int valor in arrayInteiros) {
+//     Console.WriteLine($"Possição N° {contadorForeach} - {valor}");
+//     contadorForeach++;
+// }
+
+
+
+
 
 
 
@@ -63,6 +128,11 @@ using intro_cs.Models;
 
 
 
+
+
+
+
+
 // int soma = 0, numero = 0;
 
 // do {
@@ -73,6 +143,13 @@ using intro_cs.Models;
 // } while (numero != 0);
 
 // Console.WriteLine($"A soma total dos números é igual á {soma}");
+
+
+
+
+
+
+
 
 
 
@@ -94,11 +171,21 @@ using intro_cs.Models;
 
 
 
+
+
+
+
+
 // int numero = 5;
 
 // for (int contador = 0; contador <= 10; contador++) {
 //     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
 // }
+
+
+
+
+
 
 
 
@@ -131,6 +218,10 @@ using intro_cs.Models;
 
 
 
+
+
+
+
 // bool choveu = false;
 // bool estaTarde = false;
 
@@ -139,6 +230,11 @@ using intro_cs.Models;
 // } else {
 //     Console.WriteLine("Pedalar outro dia");
 // }
+
+
+
+
+
 
 
 
@@ -157,6 +253,11 @@ using intro_cs.Models;
 
 
 
+
+
+
+
+
 // bool ehMaiorDeIdade = true;
 // bool possuiAutorizacaoDoResponsavel = false;
 
@@ -165,6 +266,11 @@ using intro_cs.Models;
 // } else {
 //     Console.WriteLine("Entrada negada");
 // }
+
+
+
+
+
 
 
 
@@ -190,11 +296,21 @@ using intro_cs.Models;
 
 
 
+
+
+
+
+
 // if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u") {
 //     Console.WriteLine("Vogal");
 // } else {
 //     Console.WriteLine("Não é vogal");
 // }
+
+
+
+
+
 
 
 
@@ -213,6 +329,11 @@ using intro_cs.Models;
 // } else 
 // {Console.WriteLine("Não é Vogal");
 // }
+
+
+
+
+
 
 
 
@@ -238,9 +359,19 @@ using intro_cs.Models;
 
 
 
+
+
+
+
+
 // int inteiro = 10;
 // string a = Inteiro.ToString();
 // Console.WriteLine(a);
+
+
+
+
+
 
 
 
@@ -254,8 +385,18 @@ using intro_cs.Models;
 
 
 
+
+
+
+
+
 // DateTime dataAtual = DateTime.Now.AddDays(5);
 // Console.WriteLine(DataAtual.ToString("dd/MM/yyyy HH:mm"));
+
+
+
+
+
 
 
 
@@ -272,6 +413,11 @@ using intro_cs.Models;
 // Console.WriteLine($"Valor da variável Altura: {Altura.ToString("0.00")} m");
 // Console.WriteLine($"Valor da variável Preço: R$ {Preco:C2}");
 // Console.WriteLine($"Valor da variável Condição: {condicao}"); 
+
+
+
+
+
 
 
 
