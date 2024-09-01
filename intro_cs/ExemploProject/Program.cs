@@ -5,52 +5,59 @@ using intro_cs.Models;
 
 
 
-string opcao;
-bool exibirMenu = true;
 
-while (exibirMenu) {
-    Console.Clear();
-    Console.WriteLine("Digite a sua opeção: ");
-    Console.WriteLine("1 - Cadastrar cliente");
-    Console.WriteLine("2 - Buscar cliente");
-    Console.WriteLine("3 - Apagar cliente");
-    Console.WriteLine("4 - Encerrar");
 
-    // Captura a tecla pressionada diretamente, sem ser necessário apertar o Entar #ByChatGPT
-    ConsoleKeyInfo tecla = Console.ReadKey(intercept: true);
-    opcao = tecla.KeyChar.ToString();
 
-    switch (opcao) {
-        case "1":
-            Console.WriteLine("\n[Cadastro de cliente]");
-            break;
 
-        case "2":
-            Console.WriteLine("\n[Busca de cliente]");
-            break;
 
-        case "3":
-            Console.WriteLine("\n[Apagar cliente]");
-            break;
 
-        case "4":
-            Console.WriteLine("\n[Encerrar]");
-            exibirMenu = false;
-            break;
 
-        default:
-            Console.WriteLine("\n[Opção inválida]");
-            break;
+// string opcao;
+// bool exibirMenu = true;
 
-    }
+// while (exibirMenu) {
+//     Console.Clear();
+//     Console.WriteLine("Digite a sua opeção: ");
+//     Console.WriteLine("1 - Cadastrar cliente");
+//     Console.WriteLine("2 - Buscar cliente");
+//     Console.WriteLine("3 - Apagar cliente");
+//     Console.WriteLine("4 - Encerrar");
 
-        if (opcao != "4") {
-            Console.WriteLine("Pressione qualquer tecla para continuar...");
-            Console.ReadKey(); //#ByChatGPT
-    }
-}
+//     // Captura a tecla pressionada diretamente, sem ser necessário apertar o Entar #ByChatGPT
+//     ConsoleKeyInfo tecla = Console.ReadKey(intercept: true);
+//     opcao = tecla.KeyChar.ToString();
 
-Console.WriteLine("O programa se encerrou");
+//     switch (opcao) {
+//         case "1":
+//             Console.WriteLine("\n[Cadastro de cliente]");
+//             break;
+
+//         case "2":
+//             Console.WriteLine("\n[Busca de cliente]");
+//             break;
+
+//         case "3":
+//             Console.WriteLine("\n[Apagar cliente]");
+//             break;
+
+//         case "4":
+//             Console.WriteLine("\n[Encerrar]");
+//             exibirMenu = false;
+//             break;
+
+//         default:
+//             Console.WriteLine("\n[Opção inválida]");
+//             break;
+
+//     }
+
+//         if (opcao != "4") {
+//             Console.WriteLine("Pressione qualquer tecla para continuar...");
+//             Console.ReadKey(); //#ByChatGPT
+//     }
+// }
+
+// Console.WriteLine("O programa se encerrou");
 
 
 
