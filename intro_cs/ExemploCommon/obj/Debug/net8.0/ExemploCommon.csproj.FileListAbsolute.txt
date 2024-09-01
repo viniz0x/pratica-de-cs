@@ -1,0 +1,12 @@
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\bin\Debug\net8.0\ExemploCommon.deps.json
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\bin\Debug\net8.0\ExemploCommon.dll
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\bin\Debug\net8.0\ExemploCommon.pdb
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.AssemblyInfoInputs.cache
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.AssemblyInfo.cs
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.csproj.CoreCompileInputs.cache
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.sourcelink.json
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.dll
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\refint\ExemploCommon.dll
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ExemploCommon.pdb
+C:\Users\luap3\OneDrive\Desktop\Workspace\dio_SiteDeCursos\xp-inc-full-stack-developer\pratica-de-cs\intro_cs\ExemploCommon\obj\Debug\net8.0\ref\ExemploCommon.dll
