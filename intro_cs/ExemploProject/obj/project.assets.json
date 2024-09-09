@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploProject\\intro_cs.csproj",
+      "projectUniqueName": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploProject\\intro_cs.csproj",
       "projectName": "intro_cs",
-      "projectPath": "c:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploProject\\intro_cs.csproj",
+      "projectPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploProject\\intro_cs.csproj",
       "packagesPath": "C:\\Users\\luap3\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploProject\\obj\\",
+      "outputPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luap3\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploCommon\\ExemploCommon.csproj": {
-              "projectPath": "c:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploCommon\\ExemploCommon.csproj"
+            "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploCommon\\ExemploCommon.csproj": {
+              "projectPath": "C:\\Users\\luap3\\OneDrive\\Desktop\\Workspace\\dio_SiteDeCursos\\xp-inc-full-stack-developer\\pratica-de-cs\\intro_cs\\ExemploCommon\\ExemploCommon.csproj"
             }
           }
         }
